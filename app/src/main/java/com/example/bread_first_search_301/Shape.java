@@ -1,6 +1,6 @@
 package com.example.bread_first_search_301;
 
-public class Shape {
+public abstract class Shape {
     int x;
     int y;
 }
