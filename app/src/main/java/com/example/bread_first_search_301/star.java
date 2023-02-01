@@ -1,8 +1,4 @@
-public class star extends Shape{
-    private String color;
-    private String name;
+package com.example.bread_first_search_301;
 
-    public star(String color, String name){
-        super(color,name)
-    }
+public class star extends Shape{
 }
